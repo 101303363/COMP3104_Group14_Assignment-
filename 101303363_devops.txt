@@ -75,5 +75,34 @@ Usage: git checkout -b [branch name]
 This command creates a new branch and also switches to it.
 
 
+~~~~ TRAVIS CI ~~~~~~~~
+
+
+
+The simplest way to test and deploy your projects in the cloud or on-prem.
+
+Easily sync your projects with Travis CI and you’ll be testing your code in minutes.
+
+
+
+Testing your open source projects is always 100% free!
+
+Log in with your cloud repository, tell Travis CI to test a project, and then push. Could it be any simpler!
+
+
+
+Many databases and services are pre-installed and can be enabled in your build configuration.
+
+
+
+
+Make sure every Pull Request to your project is tested before it’s merged.
+
+
+
+
+Updating staging or production as soon as your tests pass has never been easier!
+
+
 
 
