@@ -20,6 +20,60 @@ Command list
 • git log
 
 
+Details,
+
+git init
+This command is used to start a new repository.
+Usage: git init [repository name]
+
+
+
+git clone
+This command is used to obtain a repository from an existing URL.
+Usage: git clone [url]
+
+
+
+git add
+This command adds a file to the staging area.
+Usage: git add [file]
+
+
+git commit
+This command records or snapshots the file permanently in the
+version history.
+Usage: git commit -m “[ Type in the commit message]”
+Usage: git commit -a
+
+
+git status
+This command lists all the files that have to be committed.
+Usage: git status
+
+
+git log
+This command is used to list the version history for the current
+branch.
+Usage: git log
+
+
+git show
+This command shows the metadata and content changes of the
+specified commit.
+Usage: git show [commit]
+
+
+git branch
+This command lists all the local branches in the current repository.
+Usage: git branch
+
+
+git checkout
+This command is used to switch from one branch to another.
+Usage: git checkout [branch name]
+Usage: git checkout -b [branch name]
+This command creates a new branch and also switches to it.
+
 
 
 
