@@ -6,3 +6,12 @@ Continious Relase and Development
 Continious Monitoring
 Collaborative Customer Feedback & Optimization
 
+
+Knows buzz words,
+
+Waterfall
+• Agile
+• Sprint
+• SDLC
+• Scrum
+• Scrum Master
