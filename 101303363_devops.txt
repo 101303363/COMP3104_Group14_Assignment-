@@ -106,3 +106,9 @@ Updating staging or production as soon as your tests pass has never been easier!
 
 
 
+WHO I S A DEVOPS ENG INEER?
+
+DevOps Engineer is somebody who understands the Software Development Lifecycle and has the 
+outright
+understanding of various automation tools for developing digital pipelines (CI/ CD 
+pipelines).
