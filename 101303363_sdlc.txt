@@ -1,0 +1,8 @@
+DevOps engineer in software development cycle:
+Continious Bussiness Planning
+Collaborative Development
+Continious Testing
+Continious Relase and Development
+Continious Monitoring
+Collaborative Customer Feedback & Optimization
+
