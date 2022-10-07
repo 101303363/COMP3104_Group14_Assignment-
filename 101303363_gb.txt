@@ -74,6 +74,57 @@ Computer Programmer Analyst program. The broad education in programming and IT a
 it offers can provide you with a stable platform for career growth in therapidly expanding 
 and ever-changing world of information technology.
 
+Computer Programming  And Analysis Courses Details ,
+
+COMP 1151		IT Essentials	
+COMP 1236		Fundamentals of Computing Logic	
+COMP 1234		Introduction to Web Development	
+MATH 1162		Mathematics for Computer Technology I	
+COMM 1007		College English**	
+GSSC 1027		Personal Finance
+
+
+
+OMP 1168		Database Management	
+COMP 1202		Object-Oriented Programming	
+COMP 1235		Introduction to Full-stack Development	
+COMP 3044		Linux Essentials	
+MATH 1172		Mathematics for Computer Technology II	
+GNED		General Education Elective (Select One)
+
+
+COMP 1230		Advanced Web Programming	
+COMP 2129		Advanced Object-Oriented Programming	
+COMP 2130		Application Development using Java	
+COMP 2138		Advanced Database Development	
+COMP 2147		System Analysis, Design And Testing	
+GNED		General Education Elective
+
+
+
+COMP 2080		Data Structures and Algorithms	
+COMP 2139		Web Application Development	
+COMP 2148		Professional Workplace Competencies	
+COMP 2151		Agile Software Development	
+COMP 2152		Open Source Development
+
+
+
+COMP 3059		Capstone Project I	
+COMP 3074		Mobile Application Development I	
+COMP 3095		Web Application Development Using Java	
+COMP 3104		DevOps	
+COMP 3122		Applied Data Science	
+COMP 3123		Full Stack Development I
+
+
+COMP 3078		Capstone Project II	
+COMP 3134		Introduction to Cyber Security	
+COMP 3097		Mobile Application Development II	
+COMP 3132		Applied Machine Learning	
+COMP 3133		Full Stack Development II
+
+
 CONTACT
 
 416-415-2000
