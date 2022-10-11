@@ -7,4 +7,5 @@
 - 101347618_sdlc txt file added
 - 101347618_sdlc txt file updated
 - 101347618_gb text file updated
+- Software Development Life Cycle in visual image added
 
