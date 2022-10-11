@@ -1,0 +1,2 @@
+ - COMP3104 is a course taken in the 5th semester at George Brown College 
+ - the course focuses on using GitHub accessibility options to provide an easier development cycle for students
