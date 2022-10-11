@@ -1,5 +1,7 @@
 
-let age = "abc"
+const prompt = require('prompt-sync')();
+
+const age = prompt('How old are you?');
 
 const inputValid = (age) => {
     return new Promise((res, rej) => {
