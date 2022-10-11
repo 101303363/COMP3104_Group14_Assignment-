@@ -1,0 +1,12 @@
+- DevOps allows for constant review throughout the software development process to think about the software holistically.
+ This makes for a more stable release and, in the end, a better product for the end user.
+
+- DevOps is an approach that helps achieve collaboration with the operations management in all stages of the software development cycle
+
+- DevOps can help in product design, development testing, deployment, and support
+
+- Benefits of DevOps ->
+                         1 . Shorten production cycles
+				 2 . Increase Deployment Success rates
+				 3 . Improved Collaboration and Communication
+				 4 . Increased efficiency through Collaboration
