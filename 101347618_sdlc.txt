@@ -6,7 +6,9 @@
 - DevOps can help in product design, development testing, deployment, and support
 
 - Benefits of DevOps ->
-                         1 . Shorten production cycles
-				 2 . Increase Deployment Success rates
-				 3 . Improved Collaboration and Communication
-				 4 . Increased efficiency through Collaboration
+                         1. Shorten production cycles
+				 2. Increase Deployment Success rates
+				 3. Improved Collaboration and Communication
+				 4. Increased efficiency through Collaboration
+                         5. Work with Good Developers 
+                         6. Increase Product Quality
