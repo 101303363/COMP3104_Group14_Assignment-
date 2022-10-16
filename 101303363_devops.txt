@@ -1,4 +1,4 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~ COMP 3104 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~ COMP 3104 Fall 2022~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 •DevOps is a new term emerging from the collision of two major related trends. The first was also called “agile infrastructure” or “agile operations”. it sprang from applying Agile and Lean 
